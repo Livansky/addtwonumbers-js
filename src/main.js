@@ -28,4 +28,5 @@ function divideTwoNumbers(num1,num2){
 function sumThreeNumbers(num1,num2,num3){
   console.log(num1+num2+num3);
 }
-sumThreeNumbers(5,5,5)
+// prueba suma de tres parametros
+//sumThreeNumbers(5,5,5)
