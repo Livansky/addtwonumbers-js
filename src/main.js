@@ -15,3 +15,17 @@ function restTwoNumbers(num1, num2){
 
 //restTwoNumbers(4,1)
 
+//Division de dos numeros
+
+function divideTwoNumbers(num1,num2){
+  console.log(num1/num2);
+}
+//prueba division
+// divideTwoNumbers(10,2)
+
+//Suma de tres numeros
+
+function sumThreeNumbers(num1,num2,num3){
+  console.log(num1+num2+num3);
+}
+sumThreeNumbers(5,5,5)
